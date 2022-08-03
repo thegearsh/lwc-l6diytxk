@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/thegearsh.lwc-l6diytxk",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4wTQtxKhIfM9MkbUzYss --open"
+  }
+}
